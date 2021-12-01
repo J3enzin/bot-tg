@@ -1,0 +1,6 @@
+.idea/
+*.log
+.tk
+security.py
+venv/
+__pycache__/
